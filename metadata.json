@@ -1,0 +1,8 @@
+{
+  "name": "Real  HuluLearn MVP",
+  "description": "AI-powered personalized learning platform for Ethiopian Grade 9-12 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
